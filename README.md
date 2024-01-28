@@ -1,3 +1,3 @@
 BaseTest：基础测试
 
-NavmeshTest：导航网格寻路测试
+SimpleBattle：简单的战斗【点击地图两侧灰色区域出怪】
